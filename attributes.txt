@@ -1,0 +1,4 @@
+  Categories    		            Attributes
+Artist Traits             name, origin, and vital status
+Artwork characteristics   material, area of the artwork, signed, and dated
+Sale information          price, month and year sold, auction house and location

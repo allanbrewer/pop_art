@@ -1,0 +1,103 @@
+                           Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                 7.76470    0.05813 133.567  < 2e-16 ***
+ArtistAdami Valerio        -1.61723    0.06086 -26.571  < 2e-16 ***
+ArtistArcangelo Allan      -2.12924    0.17464 -12.192  < 2e-16 ***
+ArtistArman                -1.16472    0.04844 -24.045  < 2e-16 ***
+ArtistArtschwager Richard  -1.36593    0.12984 -10.521  < 2e-16 ***
+ArtistBarker Clive         -2.31578    0.24611  -9.410  < 2e-16 ***
+ArtistBlake Peter          -1.01874    0.11922  -8.545  < 2e-16 ***
+ArtistBoshier Derek        -3.66917    0.20166 -18.194  < 2e-16 ***
+ArtistBritto Romero        -2.55985    0.23667 -10.816  < 2e-16 ***
+ArtistCaulfield Patrick    -1.28412    0.12641 -10.159  < 2e-16 ***
+ArtistChamberlain John     -1.08737    0.18968  -5.733 1.00e-08 ***
+ArtistDine Jim             -1.16181    0.06530 -17.791  < 2e-16 ***
+ArtistEggleston William     0.15338    0.07946   1.930 0.053575 .  
+ArtistErro                 -1.94397    0.06971 -27.887  < 2e-16 ***
+ArtistFahlstrom Oyvind     -1.04432    0.15545  -6.718 1.88e-11 ***
+ArtistGoode Joe            -2.91786    0.29069 -10.038  < 2e-16 ***
+ArtistGrooms Red           -2.14149    0.15643 -13.689  < 2e-16 ***
+ArtistHains Raymond        -0.42184    0.09279  -4.546 5.49e-06 ***
+ArtistHamilton Richard     -0.53801    0.08178  -6.579 4.83e-11 ***
+ArtistHaring Keith         -0.77173    0.03747 -20.597  < 2e-16 ***
+ArtistHockney David        -0.62332    0.05421 -11.497  < 2e-16 ***
+ArtistHopper Dennis        -0.97083    0.22321  -4.349 1.37e-05 ***
+ArtistIndiana Robert       -1.08955    0.08181 -13.318  < 2e-16 ***
+ArtistJohns Jasper         -0.20154    0.06067  -3.322 0.000896 ***
+ArtistJohnson Ray          -0.69716    0.14248  -4.893 1.00e-06 ***
+ArtistJones Allen          -1.91816    0.12217 -15.700  < 2e-16 ***
+ArtistKatz Alex            -1.24363    0.07775 -15.995  < 2e-16 ***
+ArtistKienholz Edward      -1.41704    0.18838  -7.522 5.57e-14 ***
+ArtistKitaj R B            -1.22956    0.15075  -8.156 3.62e-16 ***
+ArtistKlapheck Konrad      -0.40999    0.17664  -2.321 0.020294 *  
+ArtistKogelnik Kiki        -1.14230    0.21045  -5.428 5.75e-08 ***
+ArtistKrushenick Nicholas  -2.63469    0.22290 -11.820  < 2e-16 ***
+ArtistKusama Yayoi         -1.02406    0.07108 -14.407  < 2e-16 ***
+ArtistLaing Gerald         -1.27372    0.23816  -5.348 8.96e-08 ***
+ArtistLichtenstein Roy     -0.49553    0.02890 -17.146  < 2e-16 ***
+ArtistLindner Richard      -0.87811    0.14082  -6.236 4.57e-10 ***
+ArtistMax Peter            -2.73232    0.11786 -23.183  < 2e-16 ***
+ArtistMurakami Takashi     -0.68087    0.08525  -7.987 1.44e-15 ***
+ArtistNara Yoshitomo       -0.64444    0.07473  -8.623  < 2e-16 ***
+ArtistOldenburg Claes      -0.90673    0.10179  -8.908  < 2e-16 ***
+ArtistOpie Julian          -1.04903    0.10947  -9.583  < 2e-16 ***
+ArtistPaolozzi Eduardo     -2.04875    0.13055 -15.694  < 2e-16 ***
+ArtistPhillips Peter       -2.40149    0.18585 -12.921  < 2e-16 ***
+ArtistPolke Sigmar          0.14585    0.05817   2.507 0.012180 *  
+ArtistPsaier Pietro        -3.00038    0.05944 -50.473  < 2e-16 ***
+ArtistRamos Mel            -0.51958    0.12415  -4.185 2.86e-05 ***
+ArtistRauschenberg Robert  -0.77017    0.05376 -14.325  < 2e-16 ***
+ArtistRivers Larry         -1.43877    0.08544 -16.840  < 2e-16 ***
+ArtistRizzi James          -2.87591    0.24720 -11.634  < 2e-16 ***
+ArtistRosenquist James     -1.02036    0.08657 -11.787  < 2e-16 ***
+ArtistRuscha Ed            -0.02035    0.06521  -0.312 0.754941    
+ArtistSaint Phalle Niki de -1.06665    0.08662 -12.314  < 2e-16 ***
+ArtistSaul Peter           -1.39106    0.15596  -8.919  < 2e-16 ***
+ArtistScharf Kenny         -1.80904    0.10116 -17.882  < 2e-16 ***
+ArtistSegal George         -2.07362    0.18861 -10.994  < 2e-16 ***
+ArtistSelf Colin           -2.37241    0.22654 -10.472  < 2e-16 ***
+ArtistSmith Richard        -3.38927    0.17927 -18.906  < 2e-16 ***
+ArtistTakano Aya           -1.40472    0.14693  -9.561  < 2e-16 ***
+ArtistThiebaud Wayne        0.09950    0.07406   1.344 0.179110    
+ArtistTilson Joe           -2.76237    0.12559 -21.995  < 2e-16 ***
+ArtistValdes Manolo        -0.53340    0.12790  -4.170 3.05e-05 ***
+ArtistWesley John          -0.92177    0.13145  -7.013 2.40e-12 ***
+ArtistWesselmann Tom       -0.51927    0.03505 -14.815  < 2e-16 ***
+MaterialACRYL               1.48309    0.02838  52.267  < 2e-16 ***
+MaterialOIL                 1.61851    0.03245  49.878  < 2e-16 ***
+MaterialPRINTS             -0.70246    0.02247 -31.268  < 2e-16 ***
+MaterialWRKSPPR             0.19835    0.02439   8.133 4.40e-16 ***
+AuctionChristie's           0.55507    0.02364  23.481  < 2e-16 ***
+AuctionSotheby's            0.57568    0.02388  24.110  < 2e-16 ***
+PlaceLondon                 0.52763    0.02807  18.797  < 2e-16 ***
+PlaceNew York               0.34694    0.02469  14.052  < 2e-16 ***
+AreaLN                      0.31694    0.00591  53.627  < 2e-16 ***
+AliveYES                   -0.15392    0.04320  -3.563 0.000367 ***
+SignedYES                  -0.21289    0.02094 -10.164  < 2e-16 ***
+DatedYES                    0.36217    0.01907  18.991  < 2e-16 ***
+Year2002                    0.08481    0.04644   1.826 0.067833 .  
+Year2003                    0.15128    0.04557   3.320 0.000902 ***
+Year2004                    0.30558    0.04398   6.949 3.78e-12 ***
+Year2005                    0.36260    0.04193   8.647  < 2e-16 ***
+Year2006                    0.56658    0.04117  13.763  < 2e-16 ***
+Year2007                    0.84280    0.04070  20.710  < 2e-16 ***
+Year2008                    0.54895    0.04354  12.608  < 2e-16 ***
+Year2009                    0.45642    0.04623   9.874  < 2e-16 ***
+Year2010                    0.59008    0.04297  13.732  < 2e-16 ***
+Year2011                    0.61457    0.04308  14.266  < 2e-16 ***
+Year2012                    0.47354    0.04208  11.253  < 2e-16 ***
+MonthAPR                   -0.57735    0.02879 -20.053  < 2e-16 ***
+MonthAUG                   -0.61866    0.14853  -4.165 3.12e-05 ***
+MonthDEC                   -0.41564    0.03305 -12.576  < 2e-16 ***
+MonthFEB                   -0.41855    0.03795 -11.029  < 2e-16 ***
+MonthJAN                   -0.75660    0.07815  -9.681  < 2e-16 ***
+MonthJUL                   -0.63590    0.04952 -12.843  < 2e-16 ***
+MonthJUN                   -0.35275    0.03017 -11.693  < 2e-16 ***
+MonthMAR                   -0.66855    0.03558 -18.790  < 2e-16 ***
+MonthNOV                   -0.06112    0.02411  -2.535 0.011242 *  
+MonthOCT                   -0.59619    0.02563 -23.259  < 2e-16 ***
+MonthSEP                   -0.81044    0.03493 -23.202  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.107 on 24196 degrees of freedom
+Multiple R-squared:  0.5508,	Adjusted R-squared:  0.549 
