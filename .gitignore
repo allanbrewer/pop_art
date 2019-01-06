@@ -27,6 +27,8 @@
 *.sqlite
 *.csv
 *.xlsx
+.RData
+.Rhistory
 
 # OS generated files #
 ######################
